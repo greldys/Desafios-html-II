@@ -1,0 +1,134 @@
+*{
+	margin: 0;
+	padding:0;
+	border:0;
+}
+body {
+	position: relative;
+	top:15px;
+}
+header {
+	position: relative;
+	bottom:28px;
+}
+
+h1 {
+	
+	position: relative;
+	bottom:10px;
+	width: 200px;
+	font-size: 15px;
+	left: 99px;
+	font-family: 'Raleway',  'light300';
+	margin: 10px;
+	padding: 2px;
+	border:2px;
+	font-weight: lighter; 
+}
+
+nav {
+border-radius: 5px;
+margin: 0px;
+border:10px;
+padding: 0px;
+width: 990px;
+height: 50px;
+
+background: #F5769F;
+
+display: inline-flex;
+
+position: relative;
+left: 160px;
+top:53px;
+/*float 
+left: 900px;*/
+/*position: absolute;*/
+
+z-index: 2;
+}
+
+div {
+	right: 160px;
+	width: 299px;
+	height: 200px;
+	float: right;
+	position: relative;
+	top:50px;
+height-bottom: 20px;
+	display: inline-flex;
+	margin: 0px;
+
+}
+
+nav li {
+	display: inline;
+	padding: 2px;
+	margin: 19px;
+	position: relative;
+	top:15px;
+	color: white;
+	right: 38px;
+}
+
+li ul li {
+	background: #F5769F;
+	display: block;
+
+}
+span,p {
+	background: #263238;
+	
+	position: relative;
+	top:6px;
+	/*bottom: px;*/
+	
+	text-align: center;
+	
+	width: 1296px;
+}
+p {	font-family: 'Raleway', sans-serif;
+	color: white;
+	padding: 10px;
+	font-size: 15px;
+}
+.font {
+	font-family: 'Raleway', sans-serif;
+}
+.redes{
+	margin: 5px;
+	border:5px;
+	padding: 1px;
+	width: 50px;
+	height: 50px;
+	position: relative;
+	top:19px;
+	right: 10px;
+
+
+}
+
+#banner {
+	position: relative;
+	bottom:10px;
+
+}
+#inicio {
+	background: #8E5C51;
+	color:white;
+	border-radius: 3px;
+	padding: 15.1px;
+	margin: 1;
+	height: 50px;
+	position: relative;
+	left: -20px;
+}
+
+#logo{
+	float: center ;
+	position: relative;
+	left: 166px;
+	top:36px;
+}
+
+
